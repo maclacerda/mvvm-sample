@@ -9,7 +9,7 @@ For see the articles register your developer key in:
 
 After the registration, open `Commom.swift` file and replace the `newAPI` key with your key generated.
 
-##Notes
+## Notes
 
 If you want translate the articles to your preferred language, change the variable `country` in `Commom.swift` file.
 
